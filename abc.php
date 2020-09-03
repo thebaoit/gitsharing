@@ -1,2 +1,2 @@
 <?php 
-echo "Here is GBL-17";
+echo 'Here is GBL-17';
