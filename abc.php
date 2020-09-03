@@ -1,4 +1,2 @@
 <?php 
-variant_round(variant, decimals)
-dhklsahdlkaslk
-echo "aaa"
+echo "Here is GBL-17";
